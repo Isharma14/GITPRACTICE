@@ -1,0 +1,3 @@
+[submodule "MyProject"]
+	path = MyProject
+	url = https://github.com/Isharma14/GITPRACTICE.git
